@@ -1,0 +1,476 @@
+,clust,Customer ID,Count,Quarter,Referred a Friend,Number of Referrals,Tenure in Months,Offer,Phone Service,Avg Monthly Long Distance Charges,Multiple Lines,Internet Service,Internet Type,Avg Monthly GB Download,Online Security,Online Backup,Device Protection Plan,Premium Tech Support,Streaming TV,Streaming Movies,Streaming Music,Unlimited Data,Contract,Paperless Billing,Payment Method,Monthly Charge,Total Charges,Total Refunds,Total Extra Data Charges,Total Long Distance Charges,Total Revenue
+0,2,8779-QRDMV,1,Q3,No,0,1,None,No,0.0,No,Yes,DSL,8,No,No,Yes,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,39.65,39.65,0.0,20,0.0,59.65
+1,3,7495-OOKFY,1,Q3,Yes,1,8,Offer E,Yes,48.85,Yes,Yes,Fiber Optic,17,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,80.65,633.3,0.0,0,390.8,1024.1
+2,1,1658-BYGOY,1,Q3,No,0,18,Offer D,Yes,11.33,Yes,Yes,Fiber Optic,52,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.45,1752.55,45.61,0,203.94,1910.88
+3,0,4598-XLKNJ,1,Q3,Yes,1,25,Offer C,Yes,19.76,No,Yes,Fiber Optic,12,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.5,2514.5,13.43,0,494.00000000000006,2995.07
+4,3,4846-WHAFZ,1,Q3,Yes,1,37,Offer C,Yes,6.33,Yes,Yes,Fiber Optic,14,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,76.5,2868.15,0.0,0,234.21,3102.36
+5,2,4412-YLTKF,1,Q3,No,0,27,Offer C,Yes,3.33,Yes,Yes,Fiber Optic,18,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,78.05,2135.5,0.0,10,89.91,2235.41
+6,3,0390-DCFDQ,1,Q3,Yes,1,1,Offer E,Yes,15.28,No,Yes,Fiber Optic,30,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,70.45,70.45,0.0,0,15.28,85.73
+7,3,3445-HXXGF,1,Q3,Yes,6,58,Offer B,No,0.0,No,Yes,DSL,24,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.3,2651.2,40.95,0,0.0,2610.25
+8,4,2656-FMOKZ,1,Q3,No,0,15,Offer D,Yes,44.07,Yes,Yes,Fiber Optic,19,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.45,1145.7,0.0,0,661.05,1806.75
+9,4,2070-FNEXE,1,Q3,No,0,7,Offer E,Yes,26.95,No,Yes,Fiber Optic,18,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,76.45,503.6,11.05,0,188.65,681.2
+10,1,0094-OIFMO,1,Q3,No,0,11,Offer D,Yes,11.59,No,Yes,Fiber Optic,29,No,Yes,No,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,95.0,1120.3,0.0,120,127.49,1367.79
+11,4,9947-OTFQU,1,Q3,No,0,15,Offer D,Yes,29.11,No,Yes,Fiber Optic,29,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.4,1074.3,0.0,0,436.65,1510.9499999999998
+12,3,9514-JDSKI,1,Q3,Yes,1,1,Offer E,No,0.0,No,Yes,DSL,12,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,40.2,40.2,0.0,0,0.0,40.2
+13,3,7273-TEFQD,1,Q3,No,0,3,Offer E,No,0.0,No,Yes,DSL,28,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,41.15,132.2,0.0,0,0.0,132.2
+14,2,3606-TWKGI,1,Q3,No,0,13,Offer D,Yes,32.68,Yes,Yes,Cable,11,No,Yes,Yes,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,106.9,1364.3,0.0,10,424.84,1799.1399999999999
+15,1,4385-GZQXV,1,Q3,No,0,16,Offer D,Yes,9.43,No,Yes,Fiber Optic,9,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,94.45,1511.2,0.0,0,150.88,1662.08
+16,4,3488-PGMQJ,1,Q3,No,0,8,None,Yes,1.78,No,Yes,Fiber Optic,7,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.5,606.55,0.0,0,14.24,620.79
+17,4,7534-BFESC,1,Q3,No,0,24,Offer C,Yes,30.87,Yes,Yes,Fiber Optic,15,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,76.1,1712.7,0.0,0,740.88,2453.58
+18,1,8098-LLAZX,1,Q3,No,0,4,Offer E,Yes,31.61,Yes,Yes,Fiber Optic,2,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.45,396.1,0.0,0,126.44,522.54
+19,3,0265-EDXBD,1,Q3,Yes,2,32,Offer C,Yes,47.34,Yes,Yes,Fiber Optic,10,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.9,2303.35,0.0,0,1514.88,3818.23
+20,0,2840-XANRC,1,Q3,Yes,1,24,Offer C,Yes,16.1,No,Yes,Cable,12,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,93.15,2231.05,0.0,0,386.40000000000003,2617.4500000000003
+21,1,5020-ZSTTY,1,Q3,No,0,54,Offer B,Yes,12.08,Yes,Yes,DSL,5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,82.45,4350.1,0.0,0,652.32,5002.42
+22,3,5804-LEPIM,1,Q3,No,0,2,Offer E,Yes,13.17,No,Yes,Fiber Optic,10,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.35,139.05,0.0,0,26.34,165.39000000000001
+23,3,0623-IIHUG,1,Q3,No,0,21,None,No,0.0,No,Yes,Cable,8,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,41.9,840.1,0.0,0,0.0,840.1
+24,4,9057-MSWCO,1,Q3,No,0,27,None,No,0.0,No,Yes,Cable,13,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,30.75,805.1,0.0,140,0.0,945.1
+25,4,4895-TMWIR,1,Q3,Yes,1,11,None,Yes,29.54,No,No,None,0,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.95,214.75,0.0,0,324.94,539.69
+26,0,0533-BNWKF,1,Q3,Yes,2,55,Offer B,Yes,42.82,Yes,Yes,Fiber Optic,27,No,Yes,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,85.45,4874.7,0.0,90,2355.1,7319.799999999999
+27,4,0334-GDDSO,1,Q3,No,0,3,Offer E,Yes,9.22,Yes,Yes,Fiber Optic,14,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,81.35,233.7,0.0,0,27.660000000000004,261.36
+28,2,5564-NEMQO,1,Q3,No,0,1,Offer E,Yes,35.09,No,Yes,Fiber Optic,17,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,75.3,75.3,0.0,20,35.09,130.39
+29,3,6235-VDHOM,1,Q3,No,0,5,Offer E,No,0.0,No,Yes,DSL,26,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,28.45,131.05,0.0,0,0.0,131.05
+30,2,5609-CEBID,1,Q3,No,0,20,None,Yes,48.73,Yes,Yes,Fiber Optic,12,No,Yes,Yes,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,94.1,1782.4,0.0,80,974.5999999999999,2837.0
+31,3,5956-VKDTT,1,Q3,Yes,4,5,Offer E,Yes,45.76,Yes,Yes,Fiber Optic,22,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.35,334.8,0.0,0,228.79999999999998,563.6
+32,3,0257-ZESQC,1,Q3,Yes,2,27,None,Yes,7.02,No,Yes,Cable,25,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.2,1929.35,0.0,0,189.54,2118.89
+33,3,2865-TCHJW,1,Q3,No,0,4,None,Yes,48.35,Yes,Yes,Cable,24,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.2,346.2,0.0,0,193.4,539.6
+34,1,5192-EBGOV,1,Q3,No,0,1,None,Yes,45.81,Yes,Yes,Fiber Optic,21,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.7,85.7,0.0,0,45.81,131.51
+35,0,3419-SNJJD,1,Q3,Yes,3,65,Offer B,Yes,18.39,Yes,Yes,Fiber Optic,28,Yes,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,105.25,6786.4,0.0,0,1195.3500000000001,7981.75
+36,1,4554-YGZIH,1,Q3,Yes,3,49,Offer B,Yes,22.92,Yes,Yes,Fiber Optic,14,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,No,Credit Card,90.05,4547.25,0.0,0,1123.0800000000002,5670.33
+37,0,5099-BAILX,1,Q3,Yes,1,43,Offer B,Yes,14.52,Yes,Yes,Fiber Optic,5,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,110.75,4687.9,0.0,0,624.36,5312.259999999999
+38,1,4913-EHYUI,1,Q3,No,0,56,Offer B,Yes,48.8,Yes,Yes,Fiber Optic,12,Yes,No,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,104.55,5794.65,0.0,0,2732.7999999999997,8527.449999999999
+39,0,1626-ERCMM,1,Q3,Yes,7,20,None,Yes,5.31,Yes,Yes,Fiber Optic,10,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,94.55,1899.65,0.0,0,106.19999999999999,2005.8500000000001
+40,1,5644-PDMZC,1,Q3,No,0,2,None,Yes,47.47,Yes,Yes,Fiber Optic,19,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,89.5,161.5,0.0,0,94.94,256.44
+41,4,4160-AMJTL,1,Q3,No,0,8,None,Yes,27.95,No,No,None,0,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.65,164.3,0.0,0,223.6,387.9
+42,2,0823-HSCDJ,1,Q3,No,0,52,None,No,0.0,No,Yes,DSL,18,No,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,49.15,2550.9,0.0,30,0.0,2580.9
+43,3,0067-DKWBL,1,Q3,No,0,2,None,Yes,43.99,No,Yes,DSL,27,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.25,91.1,0.0,0,87.98,179.07999999999998
+44,0,5244-IRFIH,1,Q3,Yes,1,33,None,Yes,27.78,Yes,Yes,Fiber Optic,8,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.5,3105.55,0.0,0,916.74,4022.29
+45,4,2684-EIWEO,1,Q3,No,0,30,None,Yes,45.88,Yes,Yes,Fiber Optic,19,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,91.7,2758.15,0.0,0,1376.4,4134.55
+46,0,6683-VLCTZ,1,Q3,No,0,20,None,Yes,44.44,Yes,Yes,Fiber Optic,13,No,No,Yes,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,98.55,1842.8,0.0,120,888.8,2851.6
+47,1,0691-IFBQW,1,Q3,No,0,46,None,Yes,2.37,Yes,Yes,Fiber Optic,20,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,110.0,4874.8,0.0,0,109.02000000000001,4983.820000000001
+48,0,3643-AHCFP,1,Q3,Yes,1,7,None,Yes,21.91,Yes,Yes,Cable,11,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.6,644.35,0.0,0,153.37,797.72
+49,3,9231-ZJYAM,1,Q3,No,0,4,None,Yes,36.93,No,Yes,Fiber Optic,18,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,78.85,292.8,0.0,0,147.72,440.52
+50,0,0727-BMPLR,1,Q3,No,0,55,None,Yes,37.38,Yes,Yes,Fiber Optic,7,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,100.0,5509.3,0.0,100,2055.9,7665.200000000001
+51,3,0947-MUGVO,1,Q3,Yes,1,20,None,Yes,5.37,No,Yes,Fiber Optic,24,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.65,1463.5,0.0,0,107.4,1570.9
+52,1,0781-LKXBR,1,Q3,No,0,9,None,Yes,48.71,Yes,Yes,Fiber Optic,15,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,100.5,918.6,0.0,0,438.39,1356.99
+53,2,1907-UBQFC,1,Q3,No,0,10,None,Yes,5.46,No,Yes,Fiber Optic,24,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,72.85,688.65,0.0,30,54.6,773.25
+54,4,6513-EECDB,1,Q3,No,0,1,None,Yes,36.92,Yes,Yes,Fiber Optic,6,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.55,73.55,0.0,0,36.92,110.47
+55,4,7074-IEVOJ,1,Q3,No,0,3,None,Yes,41.9,Yes,Yes,Fiber Optic,11,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.4,205.05,0.0,0,125.69999999999999,330.75
+56,1,4750-ZRXIU,1,Q3,No,0,4,None,Yes,6.68,Yes,Yes,Cable,17,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.6,360.1,0.0,0,26.72,386.82000000000005
+57,0,7028-DVOIQ,1,Q3,No,0,35,None,Yes,20.83,Yes,Yes,Fiber Optic,19,No,No,Yes,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,99.05,3395.8,0.0,120,729.05,4244.85
+58,4,4208-UFFGW,1,Q3,No,0,2,Offer E,Yes,26.62,No,Yes,DSL,11,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.95,85.15,0.0,0,53.24,138.39000000000001
+59,1,9889-TMAHG,1,Q3,No,0,8,None,Yes,11.57,No,Yes,Fiber Optic,27,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,100.3,832.35,0.0,0,92.56,924.9100000000001
+60,3,8919-FYFQZ,1,Q3,Yes,2,44,None,No,0.0,No,Yes,Cable,28,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.35,1359.7,0.0,0,0.0,1359.7
+61,0,6646-QVXLR,1,Q3,Yes,1,62,None,Yes,7.11,Yes,Yes,Fiber Optic,16,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,103.75,6383.35,0.0,0,440.82,6824.17
+62,0,9369-XFEHK,1,Q3,Yes,1,33,None,Yes,33.19,Yes,Yes,Cable,15,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.6,2656.5,0.0,0,1095.27,3751.77
+63,1,1374-DMZUI,1,Q3,No,0,4,Offer E,Yes,49.5,Yes,Yes,Fiber Optic,23,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,94.3,424.45,0.0,0,198.0,622.45
+64,3,1989-PRJHP,1,Q3,Yes,1,27,None,Yes,10.6,Yes,Yes,Fiber Optic,23,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.5,1893.95,0.0,0,286.2,2180.15
+65,1,4822-RVYBB,1,Q3,No,0,8,Offer E,Yes,40.45,Yes,Yes,Fiber Optic,29,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.6,819.4,0.0,0,323.6,1143.0
+66,3,4184-TJFAN,1,Q3,Yes,1,3,Offer E,Yes,25.77,No,Yes,Fiber Optic,2,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,88.3,273.75,0.0,0,77.31,351.06
+67,1,4145-UQXUQ,1,Q3,No,0,8,Offer E,Yes,42.93,No,Yes,Fiber Optic,9,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,92.1,729.95,0.0,0,343.44,1073.39
+68,1,1236-WFCDV,1,Q3,No,0,14,None,Yes,11.31,No,Yes,Fiber Optic,24,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,No,Credit Card,90.45,1266.1,0.0,0,158.34,1424.4399999999998
+69,3,1271-SJBGZ,1,Q3,No,0,12,None,No,0.0,No,Yes,DSL,10,No,No,Yes,Yes,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,43.65,526.95,0.0,0,0.0,526.95
+70,3,4441-NIHPT,1,Q3,No,0,13,None,Yes,40.37,No,Yes,Fiber Optic,21,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.3,940.35,0.0,0,524.81,1465.1599999999999
+71,1,8999-BOHSE,1,Q3,No,0,11,None,Yes,3.96,No,Yes,Fiber Optic,27,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,89.7,1047.7,0.0,0,43.56,1091.26
+72,0,7029-RPUAV,1,Q3,Yes,1,17,None,Yes,28.18,Yes,Yes,Cable,16,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,100.45,1622.45,0.0,0,479.06,2101.51
+73,0,8111-SLLHI,1,Q3,Yes,1,39,None,Yes,33.25,Yes,Yes,Fiber Optic,26,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,105.65,4284.8,0.0,0,1296.75,5581.55
+74,0,5293-WXJAK,1,Q3,Yes,5,11,None,Yes,17.25,Yes,Yes,Fiber Optic,27,No,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,104.05,1133.65,0.0,0,189.75,1323.4
+75,3,4086-YQSNZ,1,Q3,Yes,1,3,Offer E,Yes,3.29,No,Yes,Fiber Optic,9,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.4,224.05,0.0,0,9.870000000000001,233.92000000000002
+76,3,8399-YNDCH,1,Q3,No,0,21,None,Yes,34.62,No,Yes,DSL,14,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,60.05,1236.15,0.0,0,727.02,1963.17
+77,1,5565-FILXA,1,Q3,No,0,16,None,Yes,38.75,Yes,Yes,Fiber Optic,16,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.15,1529.2,0.0,0,620.0,2149.2
+78,1,4187-CINZD,1,Q3,No,0,46,None,Yes,6.13,No,Yes,Fiber Optic,30,No,Yes,No,No,Yes,Yes,No,Yes,One Year,No,Credit Card,95.25,4424.2,0.0,0,281.98,4706.18
+79,0,6818-WOBHJ,1,Q3,Yes,1,68,Offer A,Yes,24.13,Yes,Yes,Fiber Optic,24,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.6,6127.6,0.0,0,1640.84,7768.4400000000005
+80,3,9134-CEQMF,1,Q3,Yes,1,7,Offer E,Yes,13.63,No,Yes,Fiber Optic,27,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.5,676.7,0.0,0,95.41000000000001,772.11
+81,0,8519-IMDHU,1,Q3,Yes,1,15,None,Yes,45.25,Yes,Yes,Cable,22,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.6,1345.55,0.0,0,678.75,2024.3
+82,1,3372-KWFBM,1,Q3,No,0,16,None,Yes,19.18,Yes,Yes,Fiber Optic,22,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,86.6,1281.0,0.0,0,306.88,1587.88
+83,3,7206-GZCDC,1,Q3,No,0,1,Offer E,Yes,29.68,No,Yes,Cable,18,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.25,69.25,0.0,0,29.68,98.93
+84,3,1768-ZAIFU,1,Q3,No,0,1,None,No,0.0,No,Yes,Cable,5,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,25.2,25.2,0.0,0,0.0,25.2
+85,1,3793-MMFUH,1,Q3,No,0,13,None,Yes,19.03,Yes,Yes,Fiber Optic,24,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.05,1290.0,0.0,0,247.39000000000001,1537.39
+86,3,6567-HOOPW,1,Q3,No,0,1,None,Yes,20.06,No,Yes,Fiber Optic,24,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.2,79.2,0.0,0,20.06,99.26
+87,0,8621-MNIHH,1,Q3,Yes,1,34,None,Yes,2.88,Yes,Yes,Fiber Optic,4,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.25,3217.55,0.0,0,97.92,3315.4700000000003
+88,1,5419-CONWX,1,Q3,No,0,4,None,Yes,12.68,No,Yes,Fiber Optic,10,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,99.8,442.85,0.0,0,50.72,493.57000000000005
+89,1,7024-OHCCK,1,Q3,No,0,2,None,Yes,19.27,Yes,Yes,Fiber Optic,18,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.85,170.85,0.0,0,38.54,209.39
+90,1,5357-TZHPP,1,Q3,No,0,9,None,Yes,30.8,Yes,Yes,Fiber Optic,18,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,84.4,732.5,0.0,0,277.2,1009.7
+91,1,0506-LVNGN,1,Q3,No,0,5,None,Yes,42.33,No,Yes,Fiber Optic,9,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,75.55,349.65,0.0,0,211.64999999999998,561.3
+92,2,9809-IMGCQ,1,Q3,No,0,22,Offer D,Yes,40.18,Yes,Yes,Fiber Optic,8,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,96.7,2082.95,0.0,100,883.96,3066.91
+93,4,3254-YRILK,1,Q3,No,0,19,Offer D,Yes,39.97,Yes,Yes,Fiber Optic,9,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,88.2,1775.8,0.0,0,759.43,2535.23
+94,4,0529-ONKER,1,Q3,No,0,15,Offer D,Yes,46.38,Yes,Yes,Fiber Optic,19,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,75.65,1146.65,0.0,0,695.7,1842.3500000000001
+95,4,5240-IJOQT,1,Q3,No,0,1,None,Yes,11.34,Yes,Yes,Fiber Optic,20,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.7,74.7,0.0,0,11.34,86.04
+96,2,0661-XEYAN,1,Q3,No,0,1,None,No,0.0,No,Yes,DSL,26,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,25.8,25.8,0.0,20,0.0,45.8
+97,1,2660-EMUBI,1,Q3,No,0,10,Offer D,Yes,41.37,Yes,Yes,Fiber Optic,14,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.35,898.35,0.0,0,413.7,1312.05
+98,2,7675-OZCZG,1,Q3,No,0,3,None,Yes,30.14,No,Yes,DSL,6,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,45.0,127.1,0.0,10,90.42,227.51999999999998
+99,3,9391-EOYLI,1,Q3,Yes,1,12,Offer D,Yes,6.97,No,Yes,Fiber Optic,19,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.45,950.2,0.0,0,83.64,1033.8400000000001
+100,4,2761-OCIAX,1,Q3,No,0,2,None,Yes,6.51,No,Yes,Fiber Optic,11,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.7,165.4,0.0,0,13.02,178.42000000000002
+101,2,3068-OMWZA,1,Q3,No,0,1,None,Yes,49.6,Yes,Yes,Fiber Optic,20,No,No,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,88.8,88.8,0.0,10,49.6,148.4
+102,3,4154-AQUGT,1,Q3,Yes,1,13,Offer D,Yes,1.47,No,Yes,Fiber Optic,5,No,Yes,No,Yes,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.05,1169.35,0.0,0,19.11,1188.4599999999998
+103,1,8017-LXHFA,1,Q3,No,0,23,Offer D,Yes,31.17,No,Yes,Fiber Optic,23,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.75,2293.6,0.0,0,716.9100000000001,3010.51
+104,0,4248-QPAVC,1,Q3,Yes,1,17,Offer D,Yes,36.82,Yes,Yes,Fiber Optic,6,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.35,1463.45,0.0,0,625.94,2089.3900000000003
+105,3,4690-LLKUA,1,Q3,No,0,17,None,Yes,40.93,No,Yes,DSL,2,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.05,770.6,0.0,0,695.81,1466.4099999999999
+106,1,9490-DFPMD,1,Q3,No,0,42,None,Yes,9.53,Yes,Yes,Fiber Optic,17,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.65,3541.35,0.0,0,400.26,3941.6099999999997
+107,3,8580-AECUZ,1,Q3,No,0,1,None,Yes,42.3,No,Yes,Fiber Optic,16,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.1,79.1,0.0,0,42.3,121.39999999999999
+108,3,5047-LHVLY,1,Q3,No,0,1,Offer E,Yes,39.78,No,Yes,Cable,12,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,50.15,50.15,0.0,0,39.78,89.93
+109,3,8375-DKEBR,1,Q3,No,0,1,Offer E,Yes,34.51,No,Yes,Fiber Optic,15,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.6,69.6,0.0,0,34.51,104.10999999999999
+110,1,7279-BUYWN,1,Q3,No,0,41,None,Yes,27.95,Yes,Yes,Fiber Optic,23,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,113.2,4689.5,0.0,0,1145.95,5835.45
+111,2,7156-MHUGY,1,Q3,No,0,13,None,Yes,26.11,No,Yes,Fiber Optic,4,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,90.5,1201.15,29.84,140,339.43,1650.7400000000002
+112,3,9606-PBKBQ,1,Q3,Yes,1,32,None,Yes,5.99,Yes,Yes,Fiber Optic,23,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85.0,2642.05,49.57,0,191.68,2784.16
+113,3,3536-IQCTX,1,Q3,Yes,1,32,None,Yes,49.6,Yes,Yes,Fiber Optic,10,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,85.3,2661.1,0.0,0,1587.2,4248.3
+114,3,3132-TVFDZ,1,Q3,Yes,1,57,None,No,0.0,No,Yes,Cable,3,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,44.85,2572.95,12.07,0,0.0,2560.8799999999997
+115,4,8080-DDEMJ,1,Q3,No,0,1,Offer E,Yes,15.28,No,Yes,Cable,14,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,45.1,45.1,0.0,0,15.28,60.38
+116,3,6702-OHFWR,1,Q3,No,0,1,Offer E,No,0.0,No,Yes,DSL,26,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,43.3,43.3,0.0,0,0.0,43.3
+117,4,4510-PYUSH,1,Q3,No,0,38,None,Yes,26.1,No,Yes,DSL,27,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,57.15,2250.65,0.0,0,991.8000000000001,3242.4500000000003
+118,0,8840-DQLGN,1,Q3,Yes,1,35,None,Yes,15.98,Yes,Yes,Cable,22,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.5,3653.35,0.0,0,559.3000000000001,4212.65
+119,4,4193-ORFCL,1,Q3,No,0,1,Offer E,Yes,15.24,No,Yes,DSL,14,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.1,45.1,0.0,0,15.24,60.34
+120,3,7776-QWNFX,1,Q3,Yes,1,30,None,Yes,4.65,No,Yes,DSL,29,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.4,1527.5,0.0,0,139.5,1667.0
+121,4,6689-TCZHQ,1,Q3,No,0,5,Offer E,Yes,12.27,No,Yes,Fiber Optic,20,No,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,78.95,378.4,0.0,0,61.349999999999994,439.75
+122,1,9497-QCMMS,1,Q3,No,0,1,Offer E,Yes,30.17,Yes,Yes,Fiber Optic,6,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.55,93.55,0.0,0,30.17,123.72
+123,0,3424-NMNBO,1,Q3,Yes,1,58,None,Yes,49.38,Yes,Yes,Fiber Optic,19,Yes,Yes,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,108.85,6287.25,0.0,0,2864.04,9151.29
+124,1,4514-GFCFI,1,Q3,No,0,16,None,Yes,17.51,Yes,Yes,Fiber Optic,7,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.75,1350.15,0.0,0,280.16,1630.3100000000002
+125,2,8000-REIQB,1,Q3,No,0,1,Offer E,Yes,22.5,No,Yes,Fiber Optic,27,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.95,69.95,0.0,10,22.5,102.45
+126,2,4795-KTRTH,1,Q3,Yes,1,5,Offer E,Yes,47.28,Yes,Yes,Fiber Optic,11,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,81.0,371.65,40.64,10,236.4,577.41
+127,1,9961-JBNMK,1,Q3,No,0,21,None,Yes,42.27,No,Yes,Fiber Optic,7,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.8,2030.3,10.2,0,887.6700000000001,2907.77
+128,1,6179-GJPSO,1,Q3,No,0,43,None,Yes,31.83,No,Yes,Fiber Optic,10,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,108.15,4600.7,0.0,0,1368.6899999999998,5969.389999999999
+129,0,8290-YWKHZ,1,Q3,Yes,1,32,None,Yes,33.74,Yes,Yes,Fiber Optic,6,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.2,2931.0,17.88,0,1079.68,3992.8
+130,3,8051-HJRLT,1,Q3,No,0,1,Offer E,Yes,18.2,No,Yes,Fiber Optic,13,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.55,70.55,0.0,0,18.2,88.75
+131,2,4021-RQSNY,1,Q3,Yes,1,29,None,Yes,25.78,Yes,Yes,Fiber Optic,28,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,98.5,3004.15,37.55,40,747.62,3754.22
+132,0,9061-TIHDA,1,Q3,Yes,1,13,None,Yes,31.7,Yes,Yes,Cable,6,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.25,1233.65,48.09,0,412.09999999999997,1597.66
+133,3,8699-ASUFO,1,Q3,Yes,1,7,None,Yes,8.92,Yes,Yes,Fiber Optic,17,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.4,527.9,32.46,0,62.44,557.88
+134,1,4695-WJZUE,1,Q3,No,0,2,None,Yes,21.57,Yes,Yes,Fiber Optic,28,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,88.55,179.25,0.0,0,43.14,222.39
+135,1,3988-RQIXO,1,Q3,No,0,1,None,Yes,43.61,No,Yes,Fiber Optic,2,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,91.3,91.3,0.0,0,43.61,134.91
+136,3,5931-FLJJF,1,Q3,Yes,1,7,None,Yes,16.05,No,Yes,Fiber Optic,22,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.1,467.55,20.23,0,112.35000000000001,559.67
+137,0,3207-OYBWH,1,Q3,Yes,1,57,None,Yes,49.91,Yes,Yes,Fiber Optic,21,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.25,5427.05,12.59,0,2844.87,8259.33
+138,0,7216-EWTRS,1,Q3,Yes,4,1,None,Yes,17.35,Yes,Yes,Fiber Optic,23,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.8,100.8,0.0,0,17.35,118.15
+139,3,2528-HFYZX,1,Q3,Yes,2,17,None,Yes,1.05,No,Yes,Fiber Optic,8,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,76.45,1233.4,0.0,0,17.85,1251.25
+140,3,4140-MUHUG,1,Q3,No,0,3,None,Yes,18.38,No,Yes,Fiber Optic,20,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,86.85,220.95,0.0,0,55.14,276.09
+141,0,1587-FKLZB,1,Q3,Yes,1,66,Offer A,Yes,28.86,Yes,Yes,Fiber Optic,25,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,99.5,6822.15,0.0,0,1904.76,8726.91
+142,0,5440-FLBQG,1,Q3,Yes,1,69,Offer A,Yes,48.88,Yes,Yes,Fiber Optic,4,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,108.4,7318.2,0.0,0,3372.7200000000003,10690.92
+143,2,2774-LVQUS,1,Q3,Yes,2,15,None,Yes,44.13,Yes,Yes,Fiber Optic,3,No,No,Yes,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,83.05,1258.3,0.0,110,661.95,2030.25
+144,1,4612-THJBS,1,Q3,No,0,56,None,Yes,34.58,Yes,Yes,Fiber Optic,4,No,Yes,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,104.75,5510.65,0.0,0,1936.48,7447.129999999999
+145,1,4094-NSEDU,1,Q3,No,0,21,None,Yes,21.15,Yes,Yes,Fiber Optic,9,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.25,1973.75,0.0,0,444.15,2417.9
+146,3,1846-XWOQN,1,Q3,No,0,1,None,Yes,47.97,No,Yes,Fiber Optic,8,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15,70.15,0.0,0,47.97,118.12
+147,0,3757-NJYBX,1,Q3,Yes,3,32,None,Yes,7.92,Yes,Yes,Fiber Optic,3,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,106.35,3520.75,0.0,0,253.44,3774.19
+148,0,9898-KZQDZ,1,Q3,Yes,1,40,None,Yes,49.5,Yes,Yes,Fiber Optic,20,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,94.55,3640.45,0.0,0,1980.0,5620.45
+149,3,8263-JQAIK,1,Q3,No,0,2,None,No,0.0,No,Yes,DSL,6,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,24.45,47.5,0.0,0,0.0,47.5
+150,4,2205-YMZZJ,1,Q3,No,0,7,None,Yes,39.51,Yes,Yes,Fiber Optic,13,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,84.8,546.95,0.0,0,276.57,823.52
+151,1,1254-IZEYF,1,Q3,No,0,31,None,Yes,39.36,Yes,Yes,Fiber Optic,4,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,99.95,3186.65,0.0,0,1220.16,4406.81
+152,1,9221-OTIVJ,1,Q3,No,0,14,None,Yes,29.96,Yes,Yes,Fiber Optic,7,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,104.85,1531.4,0.0,0,419.44,1950.8400000000001
+153,1,5908-QMGOE,1,Q3,No,0,15,None,Yes,23.53,Yes,Yes,Fiber Optic,9,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.2,1133.9,43.31,0,352.95000000000005,1443.5400000000002
+154,1,0397-GZBBC,1,Q3,No,0,59,None,Yes,10.78,Yes,Yes,Fiber Optic,15,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.85,5574.75,8.13,0,636.02,6202.639999999999
+155,0,7641-EUYET,1,Q3,Yes,3,46,None,Yes,49.11,Yes,Yes,Fiber Optic,17,Yes,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.7,4541.2,46.64,0,2259.06,6753.619999999999
+156,1,8922-LIEGH,1,Q3,No,0,25,None,Yes,36.36,Yes,Yes,Fiber Optic,6,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.7,2187.55,23.33,0,909.0,3073.2200000000003
+157,1,8245-UMPYT,1,Q3,No,0,16,None,Yes,32.11,Yes,Yes,Fiber Optic,14,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.4,1581.2,47.2,0,513.76,2047.76
+158,2,5186-SAMNZ,1,Q3,No,0,1,None,Yes,41.2,No,Yes,Fiber Optic,15,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.5,69.5,0.0,80,41.2,190.7
+159,0,5373-SFODM,1,Q3,Yes,1,36,None,Yes,24.54,Yes,Yes,Fiber Optic,5,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,85.25,3132.75,0.0,0,883.4399999999999,4016.19
+160,1,0022-TCJCI,1,Q3,No,0,45,None,Yes,10.67,No,Yes,DSL,17,Yes,No,Yes,No,No,Yes,No,Yes,One Year,No,Credit Card,62.7,2791.5,0.0,0,480.15,3271.65
+161,1,5130-IEKQT,1,Q3,No,0,25,Offer C,Yes,46.34,Yes,Yes,Fiber Optic,22,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Credit Card,105.95,2655.25,0.0,0,1158.5,3813.75
+162,2,3269-ATYWD,1,Q3,No,0,39,Offer C,Yes,41.93,Yes,Yes,Fiber Optic,23,No,No,No,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,95.65,3759.05,0.0,150,1635.27,5544.32
+163,0,0354-WYROK,1,Q3,Yes,1,31,Offer C,Yes,47.95,No,Yes,Fiber Optic,21,No,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.9,2911.3,0.0,0,1486.45,4397.75
+164,4,7576-OYWBN,1,Q3,No,0,3,None,Yes,30.25,Yes,Yes,Fiber Optic,28,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,76.05,231.8,0.0,0,90.75,322.55
+165,3,5539-TMZLF,1,Q3,No,0,1,None,Yes,33.84,No,Yes,Fiber Optic,5,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.75,69.75,0.0,0,33.84,103.59
+166,2,3336-JORSO,1,Q3,No,0,33,Offer C,Yes,17.24,Yes,Yes,Fiber Optic,25,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,110.45,3655.45,0.0,70,568.92,4294.37
+167,0,6861-XWTWQ,1,Q3,Yes,1,7,None,Yes,42.92,Yes,Yes,Fiber Optic,2,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,99.25,665.45,0.0,0,300.44,965.8900000000001
+168,4,4283-FUTGF,1,Q3,No,0,19,None,Yes,16.78,Yes,Yes,Fiber Optic,15,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.85,1471.75,0.0,0,318.82000000000005,1790.5700000000002
+169,3,2397-BRLOM,1,Q3,Yes,2,8,None,Yes,26.99,No,Yes,Fiber Optic,2,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,80.45,583.45,0.0,0,215.92,799.37
+170,1,8510-AWCXC,1,Q3,No,0,13,Offer D,Yes,7.22,Yes,Yes,Fiber Optic,28,Yes,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.8,1308.1,0.0,0,93.86,1401.9599999999998
+171,1,8225-BTJAU,1,Q3,No,0,10,Offer D,Yes,7.51,No,Yes,Fiber Optic,18,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.25,793.55,0.0,0,75.1,868.65
+172,1,1724-BQUHA,1,Q3,No,0,5,None,Yes,45.72,No,Yes,Fiber Optic,6,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.5,477.7,0.0,0,228.6,706.3
+173,1,4826-XTSOH,1,Q3,No,0,1,None,Yes,38.78,Yes,Yes,Fiber Optic,23,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,86.05,86.05,0.0,0,38.78,124.83
+174,3,2408-WITXK,1,Q3,No,0,10,Offer D,No,0.0,No,Yes,DSL,4,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,34.7,329.8,0.0,0,0.0,329.8
+175,0,2634-HCZGT,1,Q3,Yes,1,53,None,Yes,21.67,Yes,Yes,Cable,6,Yes,No,No,Yes,No,No,No,No,One Year,Yes,Bank Withdrawal,60.05,3229.65,0.0,100,1148.51,4478.16
+176,3,7503-QQRVF,1,Q3,Yes,1,16,Offer D,Yes,26.12,No,Yes,Fiber Optic,8,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.3,1178.25,0.0,0,417.92,1596.17
+177,4,0709-TVGUR,1,Q3,No,0,9,None,Yes,17.56,Yes,Yes,Fiber Optic,27,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.55,622.9,33.25,0,158.04,747.6899999999999
+178,0,3001-CBHLQ,1,Q3,Yes,1,32,Offer C,Yes,43.51,Yes,Yes,Fiber Optic,22,No,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,104.9,3351.55,33.73,0,1392.32,4710.14
+179,2,4102-OQUPX,1,Q3,Yes,1,1,None,Yes,17.36,Yes,Yes,Fiber Optic,29,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,74.4,74.4,0.0,30,17.36,121.76
+180,4,3999-QGRJH,1,Q3,No,0,8,None,Yes,14.89,No,Yes,Fiber Optic,20,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.7,560.85,0.0,0,119.12,679.97
+181,0,2454-RPBRZ,1,Q3,Yes,1,12,Offer D,Yes,30.63,Yes,Yes,Fiber Optic,27,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.1,1060.2,49.06,0,367.56,1378.7
+182,0,2265-CYWIV,1,Q3,Yes,1,4,None,Yes,18.91,Yes,Yes,Fiber Optic,20,Yes,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,99.6,347.65,25.79,0,75.64,397.49999999999994
+183,0,4550-VBOFE,1,Q3,Yes,1,70,None,Yes,17.45,Yes,Yes,Fiber Optic,20,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,102.95,7101.5,15.24,0,1221.5,8307.76
+184,3,7409-KIUTL,1,Q3,No,0,1,None,Yes,28.64,No,Yes,Fiber Optic,5,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.0,71.0,0.0,0,28.64,99.64
+185,3,1732-VHUBQ,1,Q3,Yes,1,47,None,Yes,26.95,No,Yes,Fiber Optic,26,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.55,3309.25,26.99,0,1266.6499999999999,4548.91
+186,3,0679-IDSTG,1,Q3,Yes,1,1,None,Yes,37.3,No,Yes,Fiber Optic,8,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.25,69.25,0.0,0,37.3,106.55
+187,2,8802-UNOJF,1,Q3,No,0,12,Offer D,Yes,28.63,No,Yes,Cable,7,No,Yes,Yes,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,83.8,1029.75,44.58,80,343.56,1408.73
+188,3,6313-GIDIT,1,Q3,No,0,53,None,No,0.0,No,Yes,DSL,25,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.45,2854.55,20.16,0,0.0,2834.3900000000003
+189,1,2845-AFFTX,1,Q3,No,0,41,None,Yes,22.56,Yes,Yes,Fiber Optic,15,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,99.8,4259.3,8.88,0,924.9599999999999,5175.38
+190,1,2815-CPTUL,1,Q3,No,0,5,None,Yes,2.27,No,Yes,Fiber Optic,17,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.25,331.9,12.48,0,11.35,330.77
+191,2,1891-FZYSA,1,Q3,Yes,1,69,None,Yes,16.34,Yes,Yes,Fiber Optic,4,No,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,89.95,6143.15,6.79,110,1127.46,7373.82
+192,4,9685-WKZGT,1,Q3,No,0,14,Offer D,Yes,16.32,Yes,Yes,Fiber Optic,11,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.95,1036.75,39.29,0,228.48000000000002,1225.94
+193,4,6022-UGGSO,1,Q3,No,0,32,Offer C,Yes,33.22,No,Yes,Fiber Optic,9,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.4,2276.95,44.31,0,1063.04,3295.68
+194,3,3923-CSIHK,1,Q3,Yes,1,50,None,Yes,4.6,No,Yes,Cable,24,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.05,3444.85,0.0,0,229.99999999999997,3674.85
+195,3,3677-IYRBF,1,Q3,No,0,2,None,No,0.0,No,Yes,DSL,13,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.4,78.65,0.0,0,0.0,78.65
+196,1,8118-LSUEL,1,Q3,No,0,23,None,Yes,17.62,Yes,Yes,Fiber Optic,29,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,106.4,2483.5,0.0,0,405.26000000000005,2888.76
+197,4,5277-ZLOOR,1,Q3,No,0,2,Offer E,Yes,5.49,Yes,Yes,Fiber Optic,25,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.55,187.45,0.0,0,10.98,198.42999999999998
+198,3,4248-HCETZ,1,Q3,Yes,1,30,Offer C,Yes,6.23,No,Yes,Fiber Optic,4,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,79.65,2365.15,0.0,0,186.9,2552.05
+199,4,9174-FKWZE,1,Q3,No,0,1,None,Yes,22.92,No,No,None,0,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.45,19.45,0.0,0,22.92,42.370000000000005
+200,1,5307-DZCVC,1,Q3,No,0,32,Offer C,Yes,48.95,Yes,Yes,Fiber Optic,9,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,85.95,2628.6,0.0,0,1566.4,4195.0
+201,1,8679-JOEVF,1,Q3,No,0,16,None,Yes,36.83,No,Yes,DSL,16,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,59.4,1023.9,0.0,0,589.28,1613.1799999999998
+202,1,4803-AXVYP,1,Q3,No,0,38,Offer C,Yes,47.39,Yes,Yes,Fiber Optic,2,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,99.55,3734.25,0.0,0,1800.82,5535.07
+203,1,5649-ANRML,1,Q3,No,0,2,Offer E,Yes,12.96,No,Yes,Fiber Optic,20,No,Yes,Yes,Yes,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,95.1,180.25,0.0,0,25.92,206.17000000000002
+204,3,7395-IGJOS,1,Q3,Yes,1,17,None,Yes,9.5,No,Yes,Fiber Optic,16,No,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,81.5,1329.2,0.0,0,161.5,1490.7
+205,3,7890-VYYWG,1,Q3,Yes,1,3,Offer E,No,0.0,No,Yes,DSL,20,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,36.45,93.7,0.0,0,0.0,93.7
+206,3,9907-SWKKF,1,Q3,No,0,1,Offer E,No,0.0,No,Yes,DSL,21,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,25.05,25.05,0.0,0,0.0,25.05
+207,3,6397-JNZZG,1,Q3,Yes,1,43,Offer B,No,0.0,No,Yes,DSL,21,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Credit Card,55.55,2342.2,0.0,0,0.0,2342.2
+208,0,7779-LGOVN,1,Q3,Yes,2,10,None,Yes,46.5,Yes,Yes,Cable,4,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,86.65,856.65,0.0,0,465.0,1321.65
+209,1,9710-ZUSHQ,1,Q3,No,0,37,Offer C,Yes,41.85,Yes,Yes,Fiber Optic,2,Yes,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,106.75,4056.75,0.0,0,1548.45,5605.2
+210,0,3902-FOIGH,1,Q3,Yes,1,12,None,Yes,48.5,Yes,Yes,Fiber Optic,4,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.35,1218.55,0.0,0,582.0,1800.55
+211,2,3318-OSATS,1,Q3,No,0,35,Offer C,Yes,35.1,Yes,Yes,Fiber Optic,29,No,No,No,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,95.45,3474.05,0.0,80,1228.5,4782.55
+212,3,2636-ALXXZ,1,Q3,No,0,1,Offer E,Yes,45.8,No,Yes,Fiber Optic,10,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.6,69.6,0.0,0,45.8,115.39999999999999
+213,4,9885-CSMWE,1,Q3,No,0,1,Offer E,Yes,18.37,No,Yes,Fiber Optic,13,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,78.45,78.45,0.0,0,18.37,96.82000000000001
+214,2,8058-JMEQO,1,Q3,No,0,9,Offer E,Yes,12.91,Yes,Yes,Fiber Optic,21,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.45,762.5,0.0,0,116.19,878.69
+215,1,7657-DYEPJ,1,Q3,No,0,38,Offer C,Yes,5.75,No,Yes,Cable,30,No,Yes,Yes,Yes,Yes,No,No,Yes,One Year,Yes,Credit Card,70.15,2497.35,0.0,0,218.5,2715.85
+216,1,8276-MQBYC,1,Q3,No,0,51,Offer B,Yes,19.49,Yes,Yes,Fiber Optic,11,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,97.8,4913.3,0.0,0,993.9899999999999,5907.29
+217,4,6015-VVHHE,1,Q3,No,0,5,None,Yes,41.83,Yes,Yes,Fiber Optic,25,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,83.15,446.05,0.0,0,209.14999999999998,655.2
+218,4,2516-VQRRV,1,Q3,No,0,2,None,Yes,23.46,Yes,Yes,Fiber Optic,25,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,75.45,158.4,0.0,0,46.92,205.32
+219,4,7580-UGXNC,1,Q3,No,0,2,None,Yes,25.74,No,Yes,DSL,6,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,54.85,104.2,0.0,0,51.48,155.68
+220,0,5178-LMXOP,1,Q3,Yes,1,1,None,Yes,4.89,Yes,Yes,Fiber Optic,11,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.1,95.1,0.0,0,4.89,99.99
+221,0,7056-IMHCC,1,Q3,Yes,1,53,Offer B,Yes,7.94,Yes,Yes,Fiber Optic,6,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.9,5549.4,0.0,0,420.82,5970.219999999999
+222,0,8749-JMNKX,1,Q3,Yes,1,51,Offer B,Yes,22.14,Yes,Yes,Fiber Optic,30,Yes,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.8,4750.95,0.0,0,1129.14,5880.09
+223,1,0917-EZOLA,1,Q3,No,0,72,None,Yes,6.03,Yes,Yes,Fiber Optic,2,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,104.15,7689.95,0.0,0,434.16,8124.11
+224,1,8414-MYSHR,1,Q3,No,0,5,None,Yes,4.59,No,Yes,Fiber Optic,11,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,91.4,449.75,0.0,0,22.95,472.7
+225,4,4988-IQIGL,1,Q3,No,0,1,None,Yes,28.49,Yes,Yes,Fiber Optic,18,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.35,75.35,0.0,0,28.49,103.83999999999999
+226,1,4706-AXVKM,1,Q3,No,0,11,None,Yes,4.1,Yes,Yes,Fiber Optic,5,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,84.8,906.85,0.0,0,45.099999999999994,951.95
+227,2,5889-JTMUL,1,Q3,Yes,1,50,Offer B,Yes,31.56,Yes,Yes,Fiber Optic,4,No,Yes,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,95.05,4888.7,0.0,50,1578.0,6516.7
+228,3,9026-RNUJS,1,Q3,No,0,5,None,Yes,18.69,No,Yes,DSL,28,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,50.35,237.25,0.0,0,93.45,330.7
+229,1,1624-NALOJ,1,Q3,No,0,5,None,Yes,36.36,Yes,Yes,Fiber Optic,12,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.8,502.6,0.0,0,181.8,684.4000000000001
+230,1,6210-KBBPI,1,Q3,No,0,9,None,Yes,10.66,Yes,Yes,Fiber Optic,15,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,99.45,919.4,0.0,0,95.94,1015.3399999999999
+231,4,2260-USTRB,1,Q3,No,0,2,None,Yes,9.55,No,Yes,Fiber Optic,28,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.2,115.95,0.0,0,19.1,135.05
+232,0,8623-TMRBY,1,Q3,Yes,2,51,Offer B,Yes,43.58,Yes,Yes,Cable,22,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.2,4146.05,0.0,0,2222.58,6368.63
+233,2,6900-PXRMS,1,Q3,No,0,26,Offer C,Yes,1.26,Yes,Yes,Fiber Optic,18,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,105.75,2710.25,0.0,90,32.76,2833.01
+234,3,3346-BRMIS,1,Q3,Yes,1,18,None,No,0.0,No,Yes,DSL,12,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,48.35,810.7,0.0,0,0.0,810.7
+235,3,2722-JMONI,1,Q3,Yes,1,1,Offer E,Yes,24.24,No,Yes,Cable,9,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.55,49.55,0.0,0,24.24,73.78999999999999
+236,3,7579-OOPEC,1,Q3,Yes,1,2,Offer E,Yes,6.86,No,Yes,DSL,20,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.15,115.1,0.0,0,13.72,128.82
+237,2,1771-OADNZ,1,Q3,Yes,1,29,Offer C,Yes,35.38,Yes,Yes,Fiber Optic,21,No,Yes,Yes,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,95.9,2745.2,0.0,50,1026.02,3821.22
+238,3,0612-RTZZA,1,Q3,No,0,1,Offer E,No,0.0,No,Yes,DSL,15,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0.0,0,0.0,25.25
+239,0,4433-JCGCG,1,Q3,Yes,1,46,Offer B,Yes,5.36,Yes,Yes,Fiber Optic,22,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.0,4680.05,0.0,0,246.56,4926.610000000001
+240,2,9488-HGMJH,1,Q3,No,0,1,Offer E,Yes,24.75,No,Yes,Fiber Optic,22,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,71.15,71.15,0.0,20,24.75,115.9
+241,4,4818-QIUFN,1,Q3,No,0,20,None,Yes,11.82,Yes,Yes,Fiber Optic,5,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.15,1520.9,0.0,0,236.4,1757.3000000000002
+242,2,6961-VCPMC,1,Q3,Yes,1,46,Offer B,Yes,48.62,No,Yes,Fiber Optic,3,No,No,No,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,80.4,3605.2,0.0,20,2236.52,5861.719999999999
+243,1,4424-TKOPW,1,Q3,No,0,2,None,Yes,25.19,Yes,Yes,Fiber Optic,14,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.85,196.75,0.0,0,50.38,247.13
+244,3,4201-JMNGR,1,Q3,No,0,1,Offer E,Yes,26.22,No,Yes,Cable,22,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,55.8,55.8,0.0,0,26.22,82.02
+245,1,1866-RZZQS,1,Q3,No,0,41,Offer B,Yes,42.06,Yes,Yes,Fiber Optic,21,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.4,4187.75,0.0,0,1724.46,5912.21
+246,0,8631-NBHFZ,1,Q3,Yes,1,66,None,Yes,30.03,Yes,Yes,DSL,15,Yes,Yes,Yes,Yes,Yes,No,No,No,Two Year,No,Credit Card,79.4,5154.6,0.0,150,1981.98,7286.58
+247,1,4958-XCBDQ,1,Q3,No,0,35,Offer C,Yes,39.69,Yes,Yes,Fiber Optic,25,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.4,3496.3,0.0,0,1389.1499999999999,4885.45
+248,1,8337-UPOAQ,1,Q3,No,0,10,None,Yes,16.88,Yes,Yes,Fiber Optic,24,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.8,914.3,0.0,0,168.79999999999998,1083.1
+249,1,6712-OAWRH,1,Q3,No,0,26,Offer C,Yes,34.69,No,Yes,Fiber Optic,27,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,91.25,2351.8,0.0,0,901.9399999999999,3253.7400000000002
+250,4,5914-DVBWJ,1,Q3,No,0,18,None,Yes,2.36,Yes,Yes,Fiber Optic,21,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.45,1505.85,0.0,0,42.48,1548.33
+251,3,8644-XLFBW,1,Q3,No,0,1,Offer E,Yes,28.46,No,Yes,Fiber Optic,12,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.65,71.65,0.0,0,28.46,100.11000000000001
+252,4,1833-VGRUM,1,Q3,No,0,1,Offer E,Yes,48.95,Yes,Yes,Fiber Optic,23,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.2,74.2,0.0,0,48.95,123.15
+253,2,8374-XGEJJ,1,Q3,Yes,8,43,Offer B,Yes,31.25,Yes,Yes,Fiber Optic,20,No,Yes,No,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,101.0,4388.4,0.0,150,1343.75,5882.15
+254,0,6946-LMSQS,1,Q3,Yes,3,25,Offer C,Yes,33.63,Yes,Yes,Fiber Optic,25,Yes,No,No,No,No,Yes,No,Yes,One Year,Yes,Bank Withdrawal,89.05,2177.45,0.0,0,840.7500000000001,3018.2
+255,0,4039-HEUNW,1,Q3,Yes,1,36,None,Yes,16.61,Yes,Yes,Fiber Optic,3,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.5,3436.1,0.0,0,597.96,4034.06
+256,3,0812-WUPTB,1,Q3,Yes,1,1,Offer E,Yes,49.6,No,Yes,Fiber Optic,13,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,70.85,70.85,0.0,0,49.6,120.44999999999999
+257,0,2403-BCASL,1,Q3,Yes,1,41,Offer B,Yes,45.04,Yes,Yes,Cable,29,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,111.95,4534.9,0.0,0,1846.6399999999999,6381.539999999999
+258,3,3871-IKPYH,1,Q3,No,0,1,None,Yes,16.19,No,Yes,Fiber Optic,12,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,69.1,69.1,0.0,0,16.19,85.28999999999999
+259,4,1304-NECVQ,1,Q3,No,0,2,Offer E,Yes,43.96,Yes,Yes,Fiber Optic,14,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,78.55,149.55,0.0,0,87.92,237.47000000000003
+260,1,5655-JSMZM,1,Q3,No,0,49,Offer B,Yes,32.36,Yes,Yes,Fiber Optic,2,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.2,4718.25,0.0,0,1585.6399999999999,6303.889999999999
+261,2,4505-EXZHB,1,Q3,No,0,6,Offer E,Yes,8.91,No,Yes,Fiber Optic,27,No,No,Yes,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,74.4,434.1,0.0,20,53.46,507.56
+262,3,8972-HJWNV,1,Q3,Yes,1,7,Offer E,Yes,21.43,Yes,Yes,Fiber Optic,12,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.55,646.85,0.0,0,150.01,796.86
+263,1,2860-RANUS,1,Q3,No,0,20,Offer D,Yes,29.29,Yes,Yes,Fiber Optic,15,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,85.8,1727.5,0.0,0,585.8,2313.3
+264,1,0406-BPDVR,1,Q3,No,0,54,Offer B,Yes,33.49,Yes,Yes,Fiber Optic,8,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,101.5,5373.1,0.0,0,1808.46,7181.56
+265,4,5276-KQWHG,1,Q3,No,0,2,Offer E,Yes,15.32,No,Yes,Fiber Optic,21,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.6,131.65,0.0,0,30.64,162.29000000000002
+266,2,9667-EQRXU,1,Q3,No,0,30,None,No,0.0,No,Yes,Cable,7,No,No,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,40.3,1172.95,0.0,100,0.0,1272.95
+267,0,0946-CLJTI,1,Q3,Yes,1,58,Offer B,Yes,3.18,Yes,Yes,Fiber Optic,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,98.7,5812.6,0.0,0,184.44,5997.04
+268,0,0324-BRPCJ,1,Q3,Yes,1,68,None,Yes,21.33,Yes,Yes,Cable,24,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,100.2,6851.65,0.0,0,1450.4399999999998,8302.09
+269,0,9189-JWSHV,1,Q3,Yes,1,24,None,Yes,13.38,Yes,Yes,Fiber Optic,12,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,93.55,2264.05,0.0,0,321.12,2585.17
+270,0,0576-WNXXC,1,Q3,Yes,1,27,None,Yes,39.49,Yes,Yes,Fiber Optic,7,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.55,2510.2,0.0,0,1066.23,3576.43
+271,3,5482-PLVPE,1,Q3,No,0,2,None,No,0.0,No,Yes,DSL,11,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,24.35,41.85,0.0,0,0.0,41.85
+272,1,4902-OHLSK,1,Q3,No,0,29,None,Yes,20.98,Yes,Yes,Fiber Optic,16,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,98.65,2862.75,0.0,0,608.42,3471.17
+273,2,0495-ZBNGW,1,Q3,Yes,1,5,None,Yes,6.66,Yes,Yes,Fiber Optic,14,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,79.9,343.95,0.0,20,33.3,397.25
+274,1,2357-COQEK,1,Q3,No,0,28,None,Yes,28.14,Yes,Yes,Fiber Optic,10,No,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,103.3,2890.65,0.0,0,787.9200000000001,3678.57
+275,1,2034-CGRHZ,1,Q3,No,0,24,None,Yes,3.23,Yes,Yes,Fiber Optic,26,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,102.95,2496.7,0.0,0,77.52,2574.22
+276,0,9360-AHGNL,1,Q3,Yes,7,43,Offer B,Yes,8.75,Yes,Yes,Fiber Optic,13,Yes,No,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Credit Card,109.55,4830.25,0.0,0,376.25,5206.5
+277,3,5485-WUYWF,1,Q3,No,0,2,None,Yes,5.57,No,Yes,Cable,24,Yes,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,66.4,94.55,0.0,0,11.14,105.69
+278,0,2632-UCGVD,1,Q3,Yes,6,66,None,Yes,49.85,Yes,Yes,Fiber Optic,14,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,100.05,6871.9,0.0,0,3290.1,10162.0
+279,0,6425-YQLLO,1,Q3,Yes,1,66,None,Yes,27.75,Yes,Yes,Fiber Optic,11,No,No,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Credit Card,105.95,6975.25,0.0,0,1831.5,8806.75
+280,4,2091-RFFBA,1,Q3,No,0,31,None,Yes,15.43,Yes,Yes,Fiber Optic,2,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.9,2217.15,0.0,0,478.33,2695.48
+281,1,6899-PPEEA,1,Q3,No,0,37,None,Yes,3.3,Yes,Yes,Fiber Optic,2,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.55,3580.3,0.0,0,122.1,3702.4
+282,1,4597-NUCQV,1,Q3,No,0,24,None,Yes,28.98,Yes,Yes,Fiber Optic,30,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,101.25,2440.15,0.0,0,695.52,3135.67
+283,3,3754-DXMRT,1,Q3,No,0,2,None,Yes,43.66,No,Yes,DSL,25,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.15,92.65,0.0,0,87.32,179.97
+284,4,7130-VTEWQ,1,Q3,No,0,8,None,Yes,13.8,Yes,Yes,Fiber Optic,6,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.75,606.25,0.0,0,110.4,716.65
+285,0,7903-CMPEY,1,Q3,Yes,1,1,None,Yes,17.51,Yes,Yes,Fiber Optic,21,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.3,80.3,0.0,0,17.51,97.81
+286,3,1704-NRWYE,1,Q3,No,0,9,None,Yes,43.34,No,Yes,Fiber Optic,2,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.85,751.65,0.0,0,390.06000000000006,1141.71
+287,1,7481-ATQQS,1,Q3,No,0,49,Offer B,Yes,44.88,Yes,Yes,Fiber Optic,15,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,90.85,4515.85,0.0,0,2199.1200000000003,6714.970000000001
+288,3,0023-HGHWL,1,Q3,No,0,1,None,No,0.0,No,Yes,Cable,9,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,25.1,25.1,0.0,0,0.0,25.1
+289,1,1792-UXAFY,1,Q3,No,0,17,Offer D,Yes,30.37,No,Yes,Fiber Optic,28,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.15,1496.9,0.0,0,516.29,2013.19
+290,3,6161-UUUTA,1,Q3,No,0,3,None,Yes,2.98,No,Yes,Fiber Optic,3,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.9,260.9,0.0,0,8.94,269.84
+291,2,6543-XRMYR,1,Q3,No,0,30,None,Yes,43.61,Yes,Yes,Fiber Optic,8,No,Yes,No,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,99.7,2967.35,0.0,80,1308.3,4355.65
+292,0,2479-BRAMR,1,Q3,Yes,1,41,Offer B,Yes,45.84,Yes,Yes,Fiber Optic,18,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,83.75,3273.55,0.0,0,1879.44,5152.99
+293,3,3714-JTVOV,1,Q3,Yes,1,42,Offer B,Yes,2.9,No,Yes,Fiber Optic,21,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.15,3229.4,0.0,0,121.8,3351.2000000000003
+294,1,8580-QVLOC,1,Q3,No,0,72,None,Yes,25.77,Yes,Yes,DSL,6,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,No,Credit Card,92.45,6440.25,0.0,0,1855.44,8295.69
+295,0,2012-NWRPA,1,Q3,Yes,1,11,Offer D,Yes,1.28,Yes,Yes,Fiber Optic,14,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,99.55,1131.2,0.0,0,14.08,1145.28
+296,4,8808-ELEHO,1,Q3,No,0,8,None,Yes,5.02,Yes,Yes,Fiber Optic,26,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,81.25,585.95,0.0,0,40.16,626.11
+297,4,9058-CBREO,1,Q3,No,0,1,None,Yes,22.56,Yes,Yes,Cable,2,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.55,50.55,0.0,0,22.56,73.11
+298,1,8063-GBATB,1,Q3,No,0,27,None,Yes,31.17,Yes,Yes,Fiber Optic,25,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85.25,2287.25,0.0,0,841.59,3128.84
+299,1,1069-XAIEM,1,Q3,No,0,1,None,Yes,16.37,Yes,Yes,Fiber Optic,7,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85.05,85.05,0.0,0,16.37,101.42
+300,4,6987-XQSJT,1,Q3,No,0,54,None,Yes,45.77,Yes,Yes,Fiber Optic,10,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.5,4370.25,0.0,0,2471.5800000000004,6841.83
+301,4,0722-TROQR,1,Q3,No,0,4,None,Yes,26.23,Yes,Yes,Fiber Optic,29,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.9,321.75,0.0,0,104.92,426.67
+302,1,6402-ZFPPI,1,Q3,No,0,25,None,Yes,36.5,Yes,Yes,Fiber Optic,30,Yes,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,102.8,2660.2,0.0,0,912.5,3572.7
+303,1,9965-YOKZB,1,Q3,No,0,9,None,Yes,10.04,Yes,Yes,Fiber Optic,13,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,83.85,790.15,0.0,0,90.35999999999999,880.51
+304,1,0504-HHAPI,1,Q3,No,0,27,None,Yes,16.94,Yes,Yes,Fiber Optic,11,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,No,Credit Card,88.3,2467.75,0.0,0,457.38000000000005,2925.13
+305,0,3791-LGQCY,1,Q3,Yes,1,56,None,Yes,33.81,Yes,Yes,Cable,29,No,No,Yes,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,100.65,5688.05,0.0,130,1893.3600000000001,7711.41
+306,0,8166-ZZTFS,1,Q3,Yes,1,66,None,Yes,21.7,Yes,Yes,Cable,3,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,80.55,5265.1,0.0,0,1432.2,6697.3
+307,0,2956-GGUCQ,1,Q3,Yes,1,24,None,Yes,2.05,Yes,Yes,Fiber Optic,22,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,78.85,1772.25,0.0,0,49.199999999999996,1821.45
+308,3,2778-OCLGR,1,Q3,Yes,1,24,None,No,0.0,No,Yes,DSL,5,Yes,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,39.1,971.3,0.0,0,0.0,971.3
+309,0,7067-KSAZT,1,Q3,Yes,1,65,None,Yes,18.69,Yes,Yes,Fiber Optic,30,No,Yes,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,106.25,6979.8,0.0,0,1214.8500000000001,8194.65
+310,1,9300-AGZNL,1,Q3,No,0,1,None,Yes,21.85,Yes,Yes,Fiber Optic,29,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.0,94.0,0.0,0,21.85,115.85
+311,4,1112-CUNAO,1,Q3,No,0,15,Offer D,Yes,4.28,Yes,Yes,Fiber Optic,6,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,89.85,1424.95,0.0,0,64.2,1489.15
+312,1,3389-YGYAI,1,Q3,No,0,8,None,Yes,45.16,Yes,Yes,Fiber Optic,15,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,105.5,829.55,0.0,0,361.28,1190.83
+313,4,3070-DVEYC,1,Q3,No,0,7,None,Yes,32.4,Yes,Yes,Fiber Optic,7,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,73.75,545.15,0.0,0,226.79999999999998,771.9499999999999
+314,4,5707-ORNDZ,1,Q3,No,0,9,Offer E,Yes,2.45,Yes,Yes,DSL,7,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,54.55,494.05,0.0,0,22.05,516.1
+315,4,8696-JKZNU,1,Q3,No,0,37,Offer C,Yes,26.95,Yes,Yes,Fiber Optic,17,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,76.25,2841.55,0.0,0,997.15,3838.7000000000003
+316,3,2055-PDADH,1,Q3,No,0,3,Offer E,Yes,2.26,No,Yes,Fiber Optic,3,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.4,204.7,0.0,0,6.779999999999999,211.48
+317,0,2302-ANTDP,1,Q3,Yes,9,48,None,Yes,43.04,Yes,Yes,Fiber Optic,5,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,117.45,5438.9,0.0,0,2065.92,7504.82
+318,3,5233-GEEAX,1,Q3,No,0,8,Offer E,No,0.0,No,Yes,DSL,4,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.4,221.9,0.0,0,0.0,221.9
+319,3,7137-RYLPP,1,Q3,Yes,1,37,Offer C,Yes,46.61,Yes,Yes,Fiber Optic,26,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.7,3171.15,0.0,0,1724.57,4895.72
+320,1,3957-LXOLK,1,Q3,No,0,28,Offer C,Yes,9.67,Yes,Yes,Fiber Optic,28,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,106.15,3152.5,0.0,0,270.76,3423.26
+321,4,5281-BUZGT,1,Q3,No,0,36,Offer C,Yes,23.33,Yes,Yes,Fiber Optic,23,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,90.85,3186.7,0.0,0,839.8799999999999,4026.58
+322,3,2718-GAXQD,1,Q3,Yes,1,4,Offer E,Yes,42.13,No,Yes,Cable,52,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,46.0,181.6,0.0,0,168.52,350.12
+323,1,3217-FZDMN,1,Q3,No,0,8,Offer E,Yes,5.21,No,Yes,Fiber Optic,8,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,94.45,742.95,0.0,0,41.68,784.63
+324,1,7480-QNVZJ,1,Q3,No,0,50,None,Yes,18.92,Yes,Yes,Fiber Optic,11,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.7,4816.7,0.0,0,946.0000000000001,5762.7
+325,0,7124-UGSUR,1,Q3,Yes,1,61,None,Yes,35.11,Yes,Yes,Fiber Optic,17,No,Yes,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Credit Card,104.4,6405.0,0.0,0,2141.71,8546.71
+326,3,1862-SKORY,1,Q3,Yes,1,40,None,No,0.0,No,Yes,Cable,3,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,39.3,1637.4,0.0,0,0.0,1637.4
+327,3,4816-JBHOV,1,Q3,No,0,2,Offer E,Yes,41.43,No,Yes,Cable,20,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.7,93.7,0.0,0,82.86,176.56
+328,4,3247-ZVOUO,1,Q3,No,0,10,Offer D,Yes,6.01,Yes,Yes,Fiber Optic,27,No,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,85.55,851.75,0.0,0,60.099999999999994,911.85
+329,3,1268-ASBGA,1,Q3,Yes,1,16,Offer D,Yes,9.93,Yes,Yes,Fiber Optic,27,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,85.35,1375.15,0.0,0,158.88,1534.0300000000002
+330,3,4713-LZDRV,1,Q3,No,0,2,Offer E,Yes,31.91,No,Yes,Cable,30,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.6,195.05,0.0,0,63.82,258.87
+331,4,4325-NFSKC,1,Q3,No,0,19,Offer D,Yes,28.12,Yes,Yes,Fiber Optic,25,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,90.6,1660.0,0.0,0,534.28,2194.2799999999997
+332,1,6502-HCJTI,1,Q3,No,0,7,None,Yes,9.7,Yes,Yes,Fiber Optic,17,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,94.7,673.1,0.0,0,67.89999999999999,741.0
+333,4,8258-GSTJK,1,Q3,No,0,3,None,Yes,48.34,Yes,Yes,Fiber Optic,20,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,77.0,237.75,0.0,0,145.02,382.77
+334,1,2995-UPRYS,1,Q3,Yes,1,40,None,Yes,19.76,No,Yes,Fiber Optic,22,No,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,99.2,4062.2,0.0,0,790.4000000000001,4852.6
+335,4,6686-YPGHK,1,Q3,No,0,47,None,Yes,36.58,No,Yes,Fiber Optic,20,Yes,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Credit Card,85.5,4042.3,0.0,50,1719.26,5811.56
+336,4,8020-BWHYL,1,Q3,No,0,15,None,Yes,7.99,No,Yes,Fiber Optic,27,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,75.3,1147.45,0.0,0,119.85000000000001,1267.3
+337,0,6892-XPFPU,1,Q3,Yes,3,24,Offer C,Yes,49.76,Yes,Yes,Fiber Optic,11,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,104.25,2433.9,0.0,0,1194.24,3628.1400000000003
+338,4,8010-EZLOU,1,Q3,No,0,15,None,Yes,12.08,Yes,Yes,Fiber Optic,5,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.2,1217.25,0.0,0,181.2,1398.45
+339,3,8062-YBDOE,1,Q3,No,0,1,None,Yes,7.23,No,Yes,Fiber Optic,2,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.65,69.65,0.0,0,7.23,76.88000000000001
+340,3,3672-YITQD,1,Q3,Yes,1,36,Offer C,Yes,31.65,Yes,Yes,Fiber Optic,15,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.1,3021.6,0.0,0,1139.3999999999999,4161.0
+341,3,8988-ECPJR,1,Q3,Yes,1,34,Offer C,Yes,25.84,Yes,Yes,Fiber Optic,15,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,79.6,2718.3,0.0,0,878.56,3596.86
+342,3,3776-EKTKM,1,Q3,No,0,1,None,No,0.0,No,Yes,Cable,26,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,36.45,36.45,0.0,0,0.0,36.45
+343,2,0643-OKLRP,1,Q3,Yes,1,47,None,Yes,38.31,Yes,Yes,Fiber Optic,7,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,80.35,3825.85,0.0,90,1800.5700000000002,5716.42
+344,3,9381-NDKME,1,Q3,Yes,1,24,Offer C,No,0.0,No,Yes,Cable,29,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,40.65,933.3,0.0,0,0.0,933.3
+345,0,8327-LZKAS,1,Q3,Yes,1,43,None,Yes,13.84,Yes,Yes,Cable,18,No,No,Yes,Yes,Yes,Yes,No,No,One Year,Yes,Bank Withdrawal,107.55,4533.9,0.0,140,595.12,5269.0199999999995
+346,0,1075-BGWOH,1,Q3,Yes,1,16,None,Yes,15.16,Yes,Yes,Fiber Optic,7,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.75,1587.55,0.0,0,242.56,1830.11
+347,1,8485-GJCDN,1,Q3,No,0,5,None,Yes,30.05,No,Yes,Fiber Optic,11,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.05,318.5,0.0,0,150.25,468.75
+348,1,6029-WTIPC,1,Q3,No,0,37,Offer C,Yes,38.06,Yes,Yes,Fiber Optic,19,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.1,3744.05,0.0,0,1408.22,5152.27
+349,3,3317-HRTNN,1,Q3,No,0,5,None,No,0.0,No,Yes,DSL,15,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,45.7,198.0,0.0,0,0.0,198.0
+350,0,5569-OUICF,1,Q3,Yes,1,28,Offer C,Yes,16.43,Yes,Yes,Fiber Optic,20,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,101.3,2812.2,0.0,0,460.03999999999996,3272.24
+351,0,5747-PMBSQ,1,Q3,Yes,1,10,None,Yes,11.12,No,Yes,Fiber Optic,30,No,Yes,Yes,Yes,Yes,No,No,No,Month-to-Month,Yes,Credit Card,92.5,934.1,0.0,100,111.19999999999999,1145.3
+352,1,2982-IHMFT,1,Q3,No,0,1,None,Yes,39.61,Yes,Yes,Fiber Optic,16,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.45,74.45,0.0,0,39.61,114.06
+353,2,5143-EGQFK,1,Q3,No,0,10,None,No,0.0,No,Yes,Cable,20,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,29.65,291.4,0.0,110,0.0,401.4
+354,3,6168-WFVVF,1,Q3,No,0,3,None,Yes,5.54,No,Yes,Fiber Optic,16,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.3,235.5,0.0,0,16.62,252.12
+355,1,7450-NWRTR,1,Q3,No,0,12,None,Yes,21.89,Yes,Yes,Fiber Optic,26,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,99.45,1200.15,0.0,0,262.68,1462.8300000000002
+356,4,6005-OBZPH,1,Q3,No,0,26,Offer C,Yes,9.09,Yes,Yes,Fiber Optic,12,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.15,2277.65,0.0,0,236.34,2513.9900000000002
+357,3,7932-WPTDS,1,Q3,Yes,1,1,None,No,0.0,No,Yes,DSL,19,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,24.8,24.8,0.0,0,0.0,24.8
+358,1,7000-WCEVQ,1,Q3,No,0,20,None,Yes,27.11,Yes,Yes,DSL,27,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Credit Card,61.6,1174.35,0.0,0,542.2,1716.55
+359,1,5959-BELXA,1,Q3,No,0,32,Offer C,Yes,25.45,Yes,Yes,Fiber Optic,18,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,96.15,3019.25,0.0,0,814.4,3833.65
+360,3,2506-TNFCO,1,Q3,Yes,1,1,None,Yes,12.46,No,Yes,Fiber Optic,22,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.55,69.55,0.0,0,12.46,82.00999999999999
+361,2,6060-DRTNL,1,Q3,No,0,5,None,Yes,27.35,No,Yes,Fiber Optic,27,No,No,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Credit Card,84.85,415.55,0.0,20,136.75,572.3
+362,4,8473-VUVJN,1,Q3,No,0,1,None,Yes,39.88,Yes,Yes,Fiber Optic,19,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.65,73.65,0.0,0,39.88,113.53
+363,3,0196-VULGZ,1,Q3,Yes,1,6,None,Yes,28.71,Yes,Yes,Fiber Optic,17,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.35,474.9,0.0,0,172.26,647.16
+364,3,1976-CFOCS,1,Q3,Yes,1,1,None,Yes,7.74,No,Yes,DSL,19,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,46.0,46.0,0.0,0,7.74,53.74
+365,3,4631-OACRM,1,Q3,No,0,15,None,Yes,17.23,No,Yes,Fiber Optic,12,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.4,1156.1,0.0,0,258.45,1414.55
+366,3,3755-JBMNH,1,Q3,Yes,1,16,None,Yes,45.9,No,Yes,Fiber Optic,5,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.8,1167.8,0.0,0,734.4,1902.1999999999998
+367,1,6345-ULYRW,1,Q3,Yes,1,44,None,Yes,24.62,Yes,Yes,Cable,14,No,Yes,No,No,No,Yes,Yes,Yes,One Year,No,Credit Card,88.4,3912.9,0.0,0,1083.28,4996.18
+368,3,0013-EXCHZ,1,Q3,Yes,3,3,None,Yes,7.38,No,Yes,Fiber Optic,11,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,83.9,267.4,0.0,0,22.14,289.53999999999996
+369,2,5550-VFRLC,1,Q3,No,0,1,None,Yes,43.45,No,Yes,Fiber Optic,30,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.85,69.85,0.0,40,43.45,153.3
+370,3,2657-ALMWY,1,Q3,Yes,1,26,Offer C,Yes,18.26,No,Yes,Fiber Optic,3,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,84.95,2169.75,0.0,0,474.76000000000005,2644.51
+371,4,6284-AHOOQ,1,Q3,No,0,22,None,Yes,46.11,Yes,Yes,Fiber Optic,27,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,90.5,1910.6,0.0,0,1014.42,2925.02
+372,2,2460-FPSYH,1,Q3,No,0,40,None,No,0.0,No,Yes,Cable,6,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,55.8,2109.35,0.0,80,0.0,2189.35
+373,4,5028-HTLJB,1,Q3,No,0,1,Offer E,Yes,19.87,No,No,None,0,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,19.87,39.92
+374,1,0875-CABNR,1,Q3,No,0,10,None,Yes,16.85,No,Yes,Fiber Optic,30,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,84.6,865.55,0.0,0,168.5,1034.05
+375,4,6982-UQZLY,1,Q3,Yes,1,1,Offer E,Yes,22.86,No,No,None,0,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.85,20.85,0.0,0,22.86,43.71
+376,1,0193-ESZXP,1,Q3,Yes,1,58,None,Yes,16.94,No,Yes,Fiber Optic,19,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,105.5,6205.5,0.0,0,982.5200000000001,7188.02
+377,1,4369-HTUIF,1,Q3,No,0,6,Offer E,Yes,29.41,No,Yes,Fiber Optic,30,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.15,503.6,0.0,0,176.46,680.0600000000001
+378,0,5287-QWLKY,1,Q3,Yes,1,71,None,Yes,44.66,Yes,Yes,Fiber Optic,8,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,105.1,7548.1,0.0,0,3170.8599999999997,10718.96
+379,0,1891-UAWWU,1,Q3,Yes,1,20,None,Yes,4.77,Yes,Yes,Fiber Optic,17,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,90.8,1951.0,0.0,0,95.39999999999999,2046.4
+380,0,3096-JRDSO,1,Q3,Yes,5,27,Offer C,Yes,10.19,Yes,Yes,Fiber Optic,27,Yes,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,104.3,2867.75,0.0,0,275.13,3142.88
+381,2,2398-YPMUR,1,Q3,Yes,2,13,None,Yes,37.86,No,Yes,Fiber Optic,19,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.15,916.75,0.0,90,492.18,1498.93
+382,1,1265-XTECC,1,Q3,Yes,5,68,None,Yes,1.98,Yes,Yes,Fiber Optic,19,Yes,Yes,No,No,No,Yes,No,Yes,One Year,Yes,Credit Card,96.55,6581.9,0.0,0,134.64,6716.54
+383,3,4871-JTKJF,1,Q3,No,0,1,None,Yes,31.13,No,Yes,Fiber Optic,5,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.65,69.65,0.0,0,31.13,100.78
+384,1,1415-YFWLT,1,Q3,No,0,1,Offer E,Yes,30.23,No,Yes,Fiber Optic,30,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.3,89.3,0.0,0,30.23,119.53
+385,2,3500-RMZLT,1,Q3,No,0,15,None,Yes,19.11,No,Yes,Fiber Optic,8,Yes,No,Yes,Yes,No,Yes,No,No,Month-to-Month,Yes,Credit Card,96.3,1426.75,0.0,150,286.65,1863.4
+386,2,2642-DTVCO,1,Q3,No,0,9,Offer E,Yes,12.18,Yes,Yes,Fiber Optic,6,No,No,No,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,85.05,746.5,0.0,30,109.62,886.12
+387,3,1363-TXLSL,1,Q3,No,0,1,Offer E,Yes,39.1,No,Yes,Fiber Optic,27,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.3,70.3,0.0,0,39.1,109.4
+388,3,7136-RVDTZ,1,Q3,No,0,70,None,No,0.0,No,Yes,DSL,20,No,No,No,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,45.25,3264.45,0.0,0,0.0,3264.45
+389,4,6927-WTFIV,1,Q3,No,0,20,Offer D,Yes,5.71,No,Yes,Fiber Optic,22,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,71.3,1389.2,0.0,0,114.2,1503.4
+390,3,3398-ZOUAA,1,Q3,Yes,1,21,Offer D,Yes,19.74,No,Yes,Fiber Optic,18,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.1,1474.75,0.0,0,414.53999999999996,1889.29
+391,1,4844-JJWUY,1,Q3,No,0,1,Offer E,Yes,28.82,No,Yes,Fiber Optic,22,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,86.0,86.0,0.0,0,28.82,114.82
+392,0,4785-QRJHC,1,Q3,Yes,1,46,None,No,0.0,No,Yes,DSL,15,No,Yes,Yes,Yes,Yes,Yes,No,No,One Year,Yes,Bank Withdrawal,59.9,2816.65,0.0,150,0.0,2966.65
+393,4,1965-AKTSX,1,Q3,No,0,14,Offer D,Yes,16.36,Yes,Yes,Fiber Optic,6,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,78.95,1101.85,0.0,0,229.04,1330.8899999999999
+394,4,7248-VZQLC,1,Q3,No,0,47,None,Yes,16.83,Yes,Yes,Fiber Optic,12,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.2,3969.35,0.0,0,791.0099999999999,4760.36
+395,0,0011-IGKFF,1,Q3,Yes,1,13,Offer D,Yes,27.82,No,Yes,Fiber Optic,4,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.0,1237.85,0.0,0,361.66,1599.51
+396,1,6496-SLWHQ,1,Q3,No,0,3,Offer E,Yes,35.43,Yes,Yes,Fiber Optic,18,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,105.0,294.45,0.0,0,106.28999999999999,400.74
+397,0,9912-GVSEQ,1,Q3,Yes,1,26,Offer C,Yes,9.28,Yes,Yes,Fiber Optic,26,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,93.85,2381.55,0.0,0,241.27999999999997,2622.83
+398,0,5383-MMTWC,1,Q3,Yes,1,8,None,Yes,46.05,Yes,Yes,Fiber Optic,22,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.0,613.4,0.0,0,368.4,981.8
+399,3,6877-LGWXO,1,Q3,Yes,1,18,Offer D,Yes,4.98,No,Yes,Fiber Optic,18,No,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,78.55,1422.65,0.0,0,89.64000000000001,1512.2900000000002
+400,3,5167-GBFRE,1,Q3,No,0,4,Offer E,No,0.0,No,Yes,DSL,19,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,25.2,102.5,0.0,0,0.0,102.5
+401,4,1324-NLTJE,1,Q3,No,0,15,Offer D,Yes,17.19,Yes,Yes,DSL,19,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,55.0,757.1,0.0,0,257.85,1014.95
+402,3,5567-WSELE,1,Q3,Yes,1,3,Offer E,Yes,32.31,Yes,Yes,Fiber Optic,27,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.6,279.55,0.0,0,96.93,376.48
+403,0,6646-VRFOL,1,Q3,Yes,1,53,None,Yes,39.36,Yes,Yes,Fiber Optic,23,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,103.85,5485.5,0.0,0,2086.08,7571.58
+404,0,9090-SGQXL,1,Q3,Yes,1,68,None,Yes,47.17,Yes,Yes,Fiber Optic,29,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,105.3,7299.65,0.0,0,3207.56,10507.21
+405,4,6595-YGXIT,1,Q3,No,0,25,Offer C,Yes,47.66,Yes,Yes,Fiber Optic,23,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,88.95,2291.2,0.0,0,1191.5,3482.7
+406,0,9835-ZIITK,1,Q3,Yes,1,66,None,Yes,48.87,Yes,Yes,Fiber Optic,13,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,110.85,7491.75,0.0,0,3225.4199999999996,10717.17
+407,3,5649-TJHOV,1,Q3,Yes,1,27,Offer C,No,0.0,No,Yes,DSL,25,No,No,No,No,No,Yes,No,No,Month-to-Month,No,Bank Withdrawal,36.5,1032.0,0.0,30,0.0,1062.0
+408,0,9253-QXKBE,1,Q3,Yes,1,29,None,Yes,6.25,Yes,Yes,Fiber Optic,21,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.45,2653.65,0.0,0,181.25,2834.9
+409,0,8775-LHDJH,1,Q3,Yes,1,1,Offer E,Yes,13.02,Yes,Yes,Fiber Optic,30,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,90.6,90.6,0.0,0,13.02,103.61999999999999
+410,2,3097-NQYSN,1,Q3,Yes,3,2,None,Yes,4.19,Yes,Yes,Fiber Optic,11,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Credit Card,86.85,156.35,0.0,40,8.38,204.73
+411,0,3565-UNOCC,1,Q3,Yes,1,29,None,Yes,22.33,Yes,Yes,Fiber Optic,6,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,99.05,2952.85,0.0,0,647.5699999999999,3600.42
+412,1,9190-MFJLN,1,Q3,No,0,19,Offer D,Yes,32.77,No,Yes,Fiber Optic,4,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,95.9,1777.9,0.0,0,622.6300000000001,2400.53
+413,4,1095-JUDTC,1,Q3,No,0,47,None,Yes,14.22,Yes,Yes,Fiber Optic,11,No,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.05,4504.55,0.0,0,668.34,5172.89
+414,1,5385-SUIRI,1,Q3,No,0,52,None,Yes,37.6,Yes,Yes,Fiber Optic,23,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,104.2,5568.35,0.0,0,1955.2,7523.55
+415,1,6328-ZPBGN,1,Q3,No,0,11,None,Yes,3.62,Yes,Yes,Fiber Optic,22,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.15,997.65,0.0,0,39.82,1037.47
+416,1,2856-NNASM,1,Q3,No,0,43,None,Yes,39.12,No,Yes,Fiber Optic,6,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,89.55,3856.75,0.0,0,1682.1599999999999,5538.91
+417,1,6769-DYBQN,1,Q3,No,0,46,None,Yes,36.78,No,Yes,Fiber Optic,29,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,85.0,3969.4,0.0,0,1691.88,5661.280000000001
+418,1,2446-BEGGB,1,Q3,No,0,6,None,Yes,47.35,Yes,Yes,Fiber Optic,29,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,98.25,560.6,0.0,0,284.1,844.7
+419,3,1496-GGSUK,1,Q3,No,0,1,None,No,0.0,No,Yes,Cable,9,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,25.7,25.7,0.0,0,0.0,25.7
+420,3,3296-SILRA,1,Q3,Yes,6,1,None,Yes,41.16,No,Yes,Fiber Optic,6,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,76.4,76.4,0.0,0,41.16,117.56
+421,3,5180-UCIIQ,1,Q3,Yes,5,22,None,No,0.0,No,Yes,Cable,18,Yes,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Mailed Check,40.05,880.2,0.0,0,0.0,880.2
+422,4,1977-STDKI,1,Q3,No,0,1,None,Yes,20.55,No,Yes,Fiber Optic,5,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.0,73.0,0.0,0,20.55,93.55
+423,4,5813-UECBU,1,Q3,No,0,33,None,Yes,38.53,Yes,Yes,Fiber Optic,2,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,83.85,2716.3,0.0,0,1271.49,3987.79
+424,4,4342-HENTK,1,Q3,No,0,2,None,Yes,12.52,No,Yes,Fiber Optic,25,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.65,142.35,0.0,0,25.04,167.39
+425,2,1597-LHYNC,1,Q3,No,0,26,None,Yes,47.63,Yes,Yes,Fiber Optic,26,Yes,Yes,No,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,95.0,2497.2,0.0,60,1238.38,3795.58
+426,0,8651-ENBZX,1,Q3,No,0,60,None,Yes,34.39,Yes,Yes,Fiber Optic,17,No,No,Yes,Yes,Yes,Yes,No,No,One Year,Yes,Bank Withdrawal,106.0,6441.4,0.0,110,2063.4,8614.8
+427,3,9286-DOJGF,1,Q3,Yes,5,38,None,Yes,15.78,Yes,Yes,Fiber Optic,30,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.95,2869.85,0.0,0,599.64,3469.49
+428,3,9661-MHUMO,1,Q3,Yes,3,1,None,Yes,8.38,No,Yes,DSL,19,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.25,49.25,0.0,0,8.38,57.63
+429,0,8884-ADFVN,1,Q3,Yes,2,7,None,Yes,34.66,Yes,Yes,Fiber Optic,3,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,101.95,700.85,0.0,0,242.61999999999998,943.47
+430,1,2720-WGKHP,1,Q3,No,0,2,Offer E,Yes,20.99,Yes,Yes,Fiber Optic,22,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,94.0,181.7,0.0,0,41.98,223.67999999999998
+431,0,9776-CLUJA,1,Q3,Yes,1,51,None,Yes,17.87,Yes,Yes,Fiber Optic,9,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,77.5,3807.35,0.0,0,911.37,4718.72
+432,4,3551-HUAZH,1,Q3,No,0,1,Offer E,Yes,11.08,Yes,Yes,Fiber Optic,12,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.4,74.4,0.0,0,11.08,85.48
+433,0,8634-MPHTR,1,Q3,Yes,1,47,None,Yes,8.97,Yes,Yes,Fiber Optic,19,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.05,4871.05,0.0,0,421.59000000000003,5292.64
+434,0,2474-BRUCM,1,Q3,Yes,1,40,None,Yes,2.85,Yes,Yes,Fiber Optic,3,Yes,No,No,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,101.85,4086.3,0.0,0,114.0,4200.3
+435,3,0616-ATFGB,1,Q3,Yes,1,1,Offer E,No,0.0,No,Yes,Cable,18,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.05,25.05,0.0,0,0.0,25.05
+436,4,7235-NXZCP,1,Q3,No,0,2,Offer E,Yes,45.41,Yes,Yes,Fiber Optic,18,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.85,156.4,0.0,0,90.82,247.22
+437,1,6661-HBGWL,1,Q3,No,0,42,None,Yes,16.22,Yes,Yes,Fiber Optic,12,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,104.75,4323.45,0.0,0,681.24,5004.69
+438,2,9317-WZPGV,1,Q3,No,0,2,Offer E,Yes,39.63,No,Yes,Fiber Optic,23,No,No,No,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,79.75,159.4,0.0,10,79.26,248.66000000000003
+439,0,3621-CEOVK,1,Q3,Yes,1,14,None,Yes,47.01,Yes,Yes,Fiber Optic,19,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.2,1369.8,0.0,0,658.14,2027.94
+440,1,7632-MNYOY,1,Q3,No,0,66,None,Yes,9.9,Yes,Yes,Fiber Optic,25,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,No,Credit Card,110.9,7432.05,0.0,0,653.4,8085.45
+441,2,9248-OJYKK,1,Q3,No,0,1,None,Yes,3.84,Yes,Yes,Fiber Optic,13,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,76.45,76.45,0.0,10,3.84,90.29
+442,4,3398-FSHON,1,Q3,No,0,12,None,Yes,34.01,Yes,Yes,Fiber Optic,18,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,91.3,1094.5,0.0,0,408.12,1502.62
+443,1,3319-DWOEP,1,Q3,No,0,6,Offer E,Yes,47.9,No,Yes,Fiber Optic,6,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,95.75,573.75,0.0,0,287.4,861.15
+444,4,0818-OCPZO,1,Q3,No,0,27,None,Yes,42.91,Yes,Yes,Fiber Optic,5,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,81.45,2122.05,0.0,0,1158.57,3280.62
+445,0,1389-CXMLU,1,Q3,No,0,3,Offer E,Yes,26.32,Yes,Yes,Fiber Optic,8,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,91.05,289.1,0.0,0,78.96000000000001,368.06000000000006
+446,0,5561-NWEVX,1,Q3,Yes,1,2,Offer E,Yes,17.73,Yes,Yes,Fiber Optic,18,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,79.2,172.85,0.0,0,35.46,208.31
+447,4,2272-QAGFO,1,Q3,No,0,14,None,Yes,35.07,Yes,Yes,Fiber Optic,10,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.3,1096.25,0.0,0,490.98,1587.23
+448,0,3768-NLUBH,1,Q3,Yes,1,57,Offer B,Yes,42.1,Yes,Yes,Fiber Optic,3,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,100.6,5746.15,0.0,0,2399.7000000000003,8145.85
+449,1,7359-SSBJK,1,Q3,No,0,64,Offer B,Yes,29.12,No,Yes,DSL,24,Yes,Yes,No,Yes,Yes,No,No,Yes,Two Year,Yes,Credit Card,70.2,4481.0,0.0,0,1863.68,6344.68
+450,4,0685-MLYYM,1,Q3,No,0,2,Offer E,Yes,9.86,No,Yes,Fiber Optic,21,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.75,154.85,0.0,0,19.72,174.57
+451,4,7957-RYHQD,1,Q3,No,0,40,Offer B,Yes,44.86,No,Yes,Fiber Optic,4,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,79.2,3233.85,0.0,0,1794.4,5028.25
+452,1,6230-BSUXY,1,Q3,No,0,1,None,Yes,42.5,No,Yes,Fiber Optic,8,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.0,85.0,0.0,0,42.5,127.5
+453,0,3990-QYKBE,1,Q3,Yes,3,37,None,Yes,49.37,Yes,Yes,Fiber Optic,4,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,92.5,3473.4,0.0,0,1826.6899999999998,5300.09
+454,3,9274-CNFMO,1,Q3,Yes,1,4,None,Yes,28.11,Yes,Yes,Fiber Optic,27,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.95,308.7,0.0,0,112.44,421.14
+455,1,3005-NFMTA,1,Q3,No,0,55,Offer B,Yes,8.93,Yes,Yes,Fiber Optic,21,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,98.8,5617.75,0.0,0,491.15,6108.9
+456,3,5389-FFVKB,1,Q3,Yes,1,32,None,Yes,2.08,No,Yes,Fiber Optic,25,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,80.3,2483.05,0.0,0,66.56,2549.61
+457,2,8444-WRIDW,1,Q3,No,0,66,None,Yes,45.59,Yes,Yes,Fiber Optic,24,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,80.45,5224.35,0.0,140,3008.94,8373.29
+458,3,5868-YWPDW,1,Q3,Yes,1,6,None,Yes,40.44,No,Yes,Fiber Optic,25,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.2,519.15,0.0,0,242.64,761.79
+459,1,1273-MTETI,1,Q3,No,0,4,None,Yes,12.86,Yes,Yes,Fiber Optic,4,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,88.85,372.45,0.0,0,51.44,423.89
+460,3,5480-HPRRX,1,Q3,No,0,3,None,No,0.0,No,Yes,DSL,30,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.3,77.75,0.0,0,0.0,77.75
+461,1,7234-FECYN,1,Q3,No,0,8,None,Yes,43.98,Yes,Yes,Fiber Optic,27,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,101.35,780.5,0.0,0,351.84,1132.34
+462,0,1400-MMYXY,1,Q3,Yes,1,3,None,Yes,41.3,Yes,Yes,Fiber Optic,2,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,105.9,334.65,0.0,0,123.89999999999999,458.54999999999995
+463,0,7142-HVGBG,1,Q3,Yes,1,43,Offer B,Yes,17.43,Yes,Yes,Fiber Optic,26,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,103.0,4414.3,0.0,0,749.49,5163.79
+464,1,1564-NTYXF,1,Q3,No,0,13,None,Yes,4.45,Yes,Yes,Fiber Optic,25,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,82.0,1127.2,0.0,0,57.85,1185.05
+465,0,0886-QGENL,1,Q3,Yes,1,27,None,Yes,45.82,No,Yes,Fiber Optic,13,Yes,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.25,2754.45,0.0,0,1237.14,3991.59
+466,4,8739-WWKDU,1,Q3,No,0,25,None,Yes,18.46,Yes,Yes,Fiber Optic,3,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.5,2196.15,0.0,0,461.5,2657.65
+467,4,8685-WHQPW,1,Q3,No,0,22,None,Yes,5.09,Yes,Yes,Fiber Optic,23,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,74.4,1692.6,0.0,0,111.97999999999999,1804.58
+468,0,7240-FQLHE,1,Q3,Yes,1,18,None,Yes,25.27,Yes,Yes,Fiber Optic,15,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,99.75,1836.25,0.0,0,454.86,2291.11
+469,0,6664-FPDAC,1,Q3,No,0,56,Offer B,Yes,19.46,Yes,Yes,Fiber Optic,28,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,111.95,6418.9,0.0,0,1089.76,7508.66
+470,3,0786-VSSUD,1,Q3,No,0,16,None,No,0.0,No,Yes,DSL,24,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,39.0,679.85,0.0,0,0.0,679.85
+471,2,6583-QGCSI,1,Q3,Yes,1,50,Offer B,Yes,37.12,Yes,Yes,Fiber Optic,4,No,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,88.05,4367.35,0.0,100,1855.9999999999998,6323.35
+472,1,1980-KXVPM,1,Q3,No,0,3,None,Yes,23.82,Yes,Yes,Fiber Optic,30,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,75.05,256.25,0.0,0,71.46000000000001,327.71000000000004
+473,2,0723-DRCLG,1,Q3,Yes,1,1,None,Yes,31.27,Yes,Yes,Fiber Optic,11,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,74.45,74.45,0.0,10,31.27,115.72
+474,4,6894-LFHLY,1,Q3,No,0,1,None,Yes,8.35,Yes,Yes,Fiber Optic,23,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.75,75.75,0.0,0,8.35,84.1
